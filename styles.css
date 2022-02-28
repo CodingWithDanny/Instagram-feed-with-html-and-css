@@ -1,0 +1,33 @@
+.navbar{
+    background-color: white;
+}
+Body{
+    background-color: gray;
+}
+.post1{
+    background-color: white;
+    width: 500px;
+    height: 400px;
+    margin:auto;
+    margin-top: 40px;
+
+}
+.header{
+    display:flex; 
+    justify-content: space-between;
+    padding: 10px;
+    align-items: center;
+}
+img {
+max-width:100% ;
+max-height: 100%;
+}
+h2,p{
+    margin:0%;
+}
+.footer{
+    padding: 18px;
+    display: flex;
+    align-items: center;
+
+}
